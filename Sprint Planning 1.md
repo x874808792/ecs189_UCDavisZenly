@@ -1,5 +1,6 @@
 # Sprint Planning 1
 Time: November 5th, 2019
+
 Trello Link: https://trello.com/b/uB9ti7YQ/ucdavis-zenly
 
 ## Sprint Goal: 
