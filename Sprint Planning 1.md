@@ -36,15 +36,22 @@ We need to find a safe way to get/store user location information.
 
 ## Team productivity:
 Lanqing Cheng: Good at searching for information online.
+
 Jiaxin Zhao: Organize the team’s planning 
+
 Niu Shang: Review code and bug finding
+
 Zirong Yu: Good at coding.
 
 
 ## Set time limit:
 Login and UI design: 1 day
+
 Add Friends: 2 days
+
 Friends List :2 days
+
 User Profile: 2 days
+
 All tasks should be due on next Wednesday , 13th November.
 
