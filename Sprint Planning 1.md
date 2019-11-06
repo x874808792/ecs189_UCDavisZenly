@@ -7,9 +7,13 @@ Start this program as soon as possible. Implement the basic frame of the app.
 
 ## Product backlog:
 1 login: same as the wallet app, using phone number to login 
+
 2 add friend: through search username or phone number, finding useful api
+
 3 design ui: find the icon of our app, and design lay out
+
 4 user profile: change profile’s photo, change user’s name
+
 5 friends list: show a list of friend’s profile image to user
 
 
