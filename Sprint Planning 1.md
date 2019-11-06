@@ -19,8 +19,11 @@ Start this program as soon as possible. Implement the basic frame of the app.
 
 ## Deliver task:
 1 Jiaxin Zhao: login, design ui
+
 2 Lanqing Cheng: friends list
+
 3 Niu Shang : add friends
+
 4 Zirong Yu: user profile
 
 
